@@ -6,7 +6,7 @@ import EditEmployee from "./components/EditEmployee";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom";
-import { BrowserRouter } from "react-router-dom";
+
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
