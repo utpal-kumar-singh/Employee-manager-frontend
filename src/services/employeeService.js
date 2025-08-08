@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://employee-manager-backend.onrender.com/employee";
+const BASE_URL = "https://employee-manager-backend-f1g6.onrender.com";
 
 
 export const getAllEmployees = () => axios.get(`${BASE_URL}/all`);
